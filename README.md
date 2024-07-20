@@ -10,11 +10,7 @@ The Pizza Sales Project is a data analysis and visualization project aimed at an
 
 The project begins with the acquisition of raw sales data. This data may include information such as customer orders, product details, order dates, and transaction amounts. Data can be obtained from various sources, including databases, CSV files, or other data storage systems.
 
-### 2. Data Transformation with SQL
-
-SQL (Structured Query Language) is used to clean, filter, and transform the raw data into a format suitable for analysis. This may involve tasks such as joining tables, aggregating data, handling missing values, and creating new calculated fields.
-
-### 3. Data Analysis
+### 2. Data Analysis
 
 Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
 
@@ -24,7 +20,7 @@ Once the data is prepared, various SQL queries are written to perform in-depth d
 - Calculating average order values.
 - Assessing the performance of individual restaurant locations.
 
-### 4. Power BI Visualization
+### 3. Power BI Visualization
 
 Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
 
