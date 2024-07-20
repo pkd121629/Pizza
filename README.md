@@ -1,5 +1,4 @@
 # Pizza-Sales-Project-SQL-PowerBI
-# Pizza Sales Project
 
 ## Overview
 
@@ -39,15 +38,5 @@ Power BI is used to create interactive and informative visualizations that showc
 ![Dashboard 1](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
 
 
-![Dashboard 2](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard2.png)
-
-### 5. Insights and Recommendations
-
-Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
-
-## Dependencies
-
-- SQL database or data source
-- Power BI Desktop
 
 
