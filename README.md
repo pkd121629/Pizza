@@ -12,8 +12,6 @@ The project begins with the acquisition of raw sales data. This data may include
 
 ### 2. Data Analysis
 
-Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
-
 - Identifying top-selling pizza flavors.
 - Analyzing sales trends over time.
 - Evaluating customer demographics and preferences.
@@ -27,7 +25,7 @@ Power BI is used to create interactive and informative visualizations that showc
 - Bar charts and pie charts displaying sales by product category.
 - Time series charts illustrating sales trends.
 - Geographic maps showing the distribution of restaurant locations.
-- Dashboards summarizing key performance indicators (KPIs).
+- Dashboards summarizing key performance indicators.
 
 
 
